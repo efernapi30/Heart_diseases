@@ -2,7 +2,7 @@
 
 S'han agafat les dades dels dos arxius .csv que trobem al dataset “Heart Attack Analysis & Prediction dataset”, concretament els arxius "heart.csv" i "o2Saturation.csv" (https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset).
 
-Aquest paquet està format per ¿? arxius:
+Aquest paquet està format per 5 arxius:
 
 - Pra2_heart.R: que és l'arxiu amb el codi R que s'ha fet servir per tractar les dades i obtenir les anàlisi de l'estudi.
 - __ .pdf: document PDF amb la informació rellevant del tractament i anàlisi que s'ha realitzat sobre les dades.
